@@ -46,3 +46,4 @@ SOFTWARE.
 [ $ ] bash surah.sh
 ```
 
+` function `
