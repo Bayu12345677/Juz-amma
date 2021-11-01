@@ -47,3 +47,5 @@ SOFTWARE.
 ```
 
 ` function `
+
+> [√] open source code <
