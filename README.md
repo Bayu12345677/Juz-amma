@@ -48,4 +48,10 @@ SOFTWARE.
 
 ` function `
 
-> [√] open source code <
+> [√] open source code        
+> [√] free no key no password        
+> [√] no rest api         
+> [√] no installer             
+> [√] 100% bash script
+
+` enjoy `
