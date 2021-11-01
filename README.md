@@ -32,3 +32,17 @@ SOFTWARE.
 • [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 
 ## [💲how install Repo💲](https://github.com/Bayu12345677/Juz-amma)
+```php
+[ $ ] apt update && apt full-upgrade
+[ $ ] apt install curl lynx
+[ $ ] apt install w3m dialog
+[ $ ] apt install 11x-repo
+[ $ ] apt install gawk
+[ $ ] apt install pv html2text
+[ $ ] apt install git
+[ $ ] git clone https://github.com/Bayu12345677/Juz-amma
+[ $ ] cd Juz-amma
+[ $ ] apt install whiptail
+[ $ ] bash surah.sh
+```
+
