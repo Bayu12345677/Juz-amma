@@ -27,7 +27,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-• [github](https://github.com/Bayu12345677)
+• [github](https://github.com/Bayu12345677)              
 • [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 
 ## [💲how install Repo💲](https://github.com/Bayu12345677/Juz-amma)
