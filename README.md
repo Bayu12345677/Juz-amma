@@ -27,6 +27,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+## 💱 _Me akun social_ 💱
 • [github](https://github.com/Bayu12345677)              
 • [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 
